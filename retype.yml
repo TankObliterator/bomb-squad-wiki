@@ -9,7 +9,7 @@ start:
   # pro: true
 
 branding:
-  title: Bomb&nbsp;Squad
+  title: "Bomb\u00A0Squad"
   label: Wiki
   logo: /static/logo.png
 
