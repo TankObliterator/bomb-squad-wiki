@@ -1,19 +1,21 @@
 input: .
 output: .retype
 
-url: seafmc.org # Use your website address here
+url: wiki.seafmc.org # Use your website address here
+favicon: static/logo.png
 
 start:
   # Uncomment the next line to try Retype Pro features
   # pro: true
 
 branding:
-  title: Project Name
-  label: Docs
+  title: Bomb Squad
+  label: Wiki
+  logo: /static/logo.png
 
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Discord
+  link: https://dc.seafmc.org
 
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; The Bomb Squad {{ year }}. All rights reserved."
