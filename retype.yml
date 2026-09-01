@@ -14,8 +14,9 @@ branding:
   logo: /static/logo.png
 
 links:
-- text: ":icon-logo-discord: Discord"
+- text: Discord
   link: https://dc.seafmc.org
+  icon: comment-discussion
 
 footer:
   copyright: "&copy; The Bomb Squad {{ year }}. All rights reserved."
