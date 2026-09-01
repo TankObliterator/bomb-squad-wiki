@@ -19,5 +19,7 @@ links:
   icon: comment-discussion
   target: blank
 
+showSidebarFilter: false
+
 footer:
   copyright: "&copy; The Bomb Squad {{ year }}. All rights reserved."
