@@ -16,6 +16,7 @@ branding:
 links:
 - text: Discord
   link: https://dc.seafmc.org
+  icon: icon-logo-discord
 
 footer:
   copyright: "&copy; The Bomb Squad {{ year }}. All rights reserved."
