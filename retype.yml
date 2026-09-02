@@ -1,8 +1,8 @@
-input: .
-output: .retype
+input: src
+output: docs
 
 url: wiki.seafmc.org # Use your website address here
-favicon: static/logo.png
+favicon: assets/logo.png
 
 start:
   # Uncomment the next line to try Retype Pro features
@@ -11,7 +11,7 @@ start:
 branding:
   title: "Bomb\u00A0Squad"
   label: Wiki
-  logo: /static/logo.png
+  logo: assets/logo.png
 
 links:
 - text: Discord
