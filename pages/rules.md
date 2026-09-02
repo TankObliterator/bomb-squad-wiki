@@ -1,6 +1,5 @@
 ---
 label: Rules
-layout: page
 order: 2
 ---
 # General Rules
