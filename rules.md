@@ -1,6 +1,6 @@
 ---
 label: Rules
-order: 2
+order: 100
 ---
 # General Rules
 These rules can also be found [here](https://discord.com/channels/1315632863437131819/1326501178661535785)
