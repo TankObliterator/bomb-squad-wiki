@@ -1,7 +1,7 @@
 ---
 label: Rules
 layout: page
-order: 100
+order: 2
 ---
 # General Rules
 These rules can also be found [here](https://discord.com/channels/1315632863437131819/1326501178661535785)
