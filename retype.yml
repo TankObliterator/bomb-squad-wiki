@@ -18,6 +18,10 @@ links:
   link: https://dc.seafmc.org
   icon: comment-discussion
   target: blank
+- text: Modrinth
+  link: https://modrinth.com/organization/seaf-mc
+  icon: package
+  target: blank
 
 showSidebarFilter: false
 
