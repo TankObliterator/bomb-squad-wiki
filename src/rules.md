@@ -1,6 +1,7 @@
 ---
 label: Rules
-order: 100
+icon: log
+order: 1000
 ---
 
 # General Rules
@@ -14,14 +15,14 @@ These rules can also be found [here](https://discord.com/channels/13156328634371
 7. Do not use bots or external software.
 8. Moderation has last say in conflicts.
 
-# Minecraft Specific
-1. General Rule 2, 4, 6, and 8 *fully* apply here.
-2. General Rule 1 and 3 are tolerated in small amounts. (so long as they stay *in game*)
-3. Hacked clients, xray, automation, etc... are all frowned upon.
+# Minecraft-Specific
+1. General Rules 2, 4, 6, and 8 *fully* apply here.
+2. General Rules 1 and 3 are tolerated in small amounts (so long as they stay *in-game*).
+3. Hacked clients, X-ray, automation, etc., are all disallowed.
 4. Content obtained directly from [Modrinth](https://modrinth.com/) is exempt from the previous rule.
-5. Intentional Griefing is HEAVILY discoraged.
-6. 
+5. Intentional griefing is HEAVILY discouraged.
+6. Avoid creating lag that could disrupt other players.
 
-### Punishments
-1. Breaking any of the relevant general rules is handled exacly like it would be in discord.
-2. 
+## Punishments
+1. Breaking any of the general rules will result in a punishment decided by staff.
+2. On the Minecraft server, players report others they suspect of or know broke a rule. All available evidence is noted down, and a poll is created to decide on a course of action.

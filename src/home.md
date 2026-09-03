@@ -1,5 +1,6 @@
 ---
 label: Welcome
+icon: home
 ---
 
 # Welcome to The Bomb Squad Wiki!
