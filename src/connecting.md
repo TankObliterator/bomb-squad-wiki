@@ -12,23 +12,27 @@ We support multiple connection methods for both editions of the game. Please use
 ```
 seafmc.org
 ```
-1. The default connection method.
-2. Very stable and just works.
+- The default connection method.
+- Very stable and just works.
 
 ### Raknetify
 ```
 raknet;seafmc.org
 ```
-1. Requires the raknetify mod.
-2. Offers a significantly better experince on slow or unreliable connections.
+- Requires the raknetify mod.
+- Offers a significantly better experince on slow or unreliable connections.
 
 ## Bedrock
 ### Universal
 > Add **`SEAF MC`** as a Minecraft Friend.
-1. Works on every device.
-2. Syncs all your devices.
+- Works on every device.
+- Syncs across all your devices.
 
 ### Classic
 > IP: **`seafmc.org`** Port: **`19132`**
-1. Works on mobile and desktop devices.
-2. Most reliable method.
+- Works on mobile and desktop devices.
+- Most reliable method.
+
+!!!base Note for Consoles
+If for some reason the Universal connection method does not work. You can download [Bedrock Connect](https://bedrockconnect.app/) on your mobile device to use the classic method.
+!!!
