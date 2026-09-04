@@ -33,6 +33,6 @@ raknet;seafmc.org
 - Works on mobile and desktop devices.
 - Most reliable method.
 
-!!!base Note for Consoles
-If for some reason the Universal connection method does not work. You can download [Bedrock Connect](https://bedrockconnect.app/) on your mobile device to use the classic method.
+!!!base Note for Consoles Users
+If the Universal connection method is not working. You can download [Bedrock Connect](https://bedrockconnect.app/) on your mobile device to use the classic method instead. (This app also allows choosing your own resource packs.)
 !!!
