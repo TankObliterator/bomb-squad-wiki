@@ -22,6 +22,10 @@ links:
   link: https://modrinth.com/organization/seaf-mc
   icon: package
   target: blank
+- text: Status
+  link: https://status.seafmc.org/
+  icon: rss
+  target: blank
 
 showSidebarFilter: false
 
