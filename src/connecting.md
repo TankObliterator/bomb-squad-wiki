@@ -20,10 +20,10 @@ seafmc.org
 raknet;seafmc.org
 ```
 - Requires the raknetify mod.
-- Offers a significantly better experince on slow or unreliable connections.
+- Offers a significantly better experience on slow or unreliable connections.
 
 !!!base Note for Mod Users
-We recommend downloading our [offical modpack](https://modrinth.com/modpack/seaf-mc-pack){target="_blank"} via the [modrinth app](https://modrinth.com/app){target="_blank"} for the best experince.
+We recommend downloading our [official modpack](https://modrinth.com/modpack/seaf-mc-pack){target="_blank"} via the [modrinth app](https://modrinth.com/app){target="_blank"} for the best experience.
 !!!
 
 ## Bedrock
