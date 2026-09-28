@@ -1,6 +1,6 @@
 ---
 label: Creative
-icon: dot
+icon: dash
 order: 800
 ---
 # Creative

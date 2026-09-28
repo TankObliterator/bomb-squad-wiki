@@ -1,6 +1,6 @@
 ---
 label: Survival
-icon: dot
+icon: dash
 order: 900
 ---
 # Survival

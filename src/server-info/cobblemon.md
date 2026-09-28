@@ -1,6 +1,6 @@
 ---
 label: Cobblemon
-icon: dot
+icon: dash
 order: 700
 ---
 # Cobblemon
