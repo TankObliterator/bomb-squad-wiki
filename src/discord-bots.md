@@ -26,5 +26,5 @@ Carl-bot, aka "Automaton 1", has been in the server since almost the beginning a
 The Music Bot can only be described as a vile beast that has to be constantly forced into submission. It is a self-hosted instance of [Vocard](https://github.com/ChocoMeow/Vocard) with a pretty normal Lavalink backend.
 
 !!!base Note on Music Sources
-Currently, we support playing from any™ source that isn't Apple Music or Spotify (this could change if someone with Spotify Premium or an Apple developer account is willing to generate an API key).
+Currently, we support playing from any™ source that isn't Apple Music or Spotify (this could change if someone with Spotify Premium or an Apple developer account is willing to generate us an API key).
 !!!
