@@ -1,6 +1,6 @@
 ---
 label: Survival
-icon: log
+icon: dot
 order: 900
 ---
 # Survival

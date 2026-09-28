@@ -1,6 +1,6 @@
 ---
 label: Creative
-icon: log
+icon: dot
 order: 800
 ---
 # Creative

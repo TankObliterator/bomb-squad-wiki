@@ -1,6 +1,6 @@
 ---
 label: Lobby
-icon: log
+icon: dot
 order: 1000
 ---
 # Lobby
